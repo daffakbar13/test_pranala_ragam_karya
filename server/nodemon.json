@@ -1,0 +1,4 @@
+{
+  "watch": ["./src/*"],
+  "exec": "tsc && node dist/main.js"
+}
